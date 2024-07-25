@@ -66,7 +66,7 @@ version = "=2.2.7"
 
 [dependencies.snarkvm-synthesizer]
 git = "https://github.com/maxpia4/snarkVM.git"
-rev = "374152d"
+rev = "372ff28"
 default-features = false
 optional = true
 
