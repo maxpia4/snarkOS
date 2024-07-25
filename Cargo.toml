@@ -46,7 +46,7 @@ default-features = false
 
 [workspace.dependencies.snarkvm]
 git = "https://github.com/maxpia4/snarkVM.git"
-rev = "7e341d1" # If this is updated, the rev in `node/rest/Cargo.toml` must be updated as well.
+rev = "374152d" # If this is updated, the rev in `node/rest/Cargo.toml` must be updated as well.
 #version = "=0.16.18"
 features = [ "circuit", "console", "rocks" ]
 
